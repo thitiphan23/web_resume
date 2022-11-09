@@ -1,0 +1,16 @@
+.bg-dark {
+    background-color: #2665c5!important;
+}
+.nav-link {
+    font-size: 18px;
+}
+.carousel-inner {
+    height: 500px;
+}
+
+.col-sm-4 h3 {
+    font-family: 'Prompt', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    text-shadow: 4px 2px 0px #bbb6b6;
+}
